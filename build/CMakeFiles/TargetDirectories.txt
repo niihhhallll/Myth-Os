@@ -1,0 +1,6 @@
+/home/gigu/Projects/os/build/CMakeFiles/run.dir
+/home/gigu/Projects/os/build/CMakeFiles/edit_cache.dir
+/home/gigu/Projects/os/build/CMakeFiles/rebuild_cache.dir
+/home/gigu/Projects/os/build/kernel/CMakeFiles/myth.bin.dir
+/home/gigu/Projects/os/build/kernel/CMakeFiles/edit_cache.dir
+/home/gigu/Projects/os/build/kernel/CMakeFiles/rebuild_cache.dir

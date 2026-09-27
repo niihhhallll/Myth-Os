@@ -1,0 +1,1 @@
+/usr/bin/cc -T/home/gigu/Projects/os/linker.ld -nostdlib CMakeFiles/myth.bin.dir/src/boot.asm.o CMakeFiles/myth.bin.dir/src/kernel.c.o CMakeFiles/myth.bin.dir/include/io.asm.o -o myth.bin 
